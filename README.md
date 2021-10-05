@@ -1,3 +1,5 @@
+<img align="center" height="200" src="https://res.cloudinary.com/practicaldev/image/fetch/s--6YdpvNlW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/z72w7nfxhdw5mt1blnzm.png"/>
+
 # Hacktoberfest 2021 - Newbie
 
 This is a beginner-friendly project to help you get started with your
